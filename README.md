@@ -9,13 +9,7 @@ Repositório para o desafio do mentor João Louzada do programa desenvolve do gr
   <a href="#-projeto">Projeto</a>
 </p>
 
-<br>
 
-<p align="center">
-  <img alt="Desktop" src="src/images/desktop.jpeg" width="100%">
-</p>
-
-<br>
 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
