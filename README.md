@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - LocalStorage
-
+Link para acessar: https://projectlistreact-ada-h92p.vercel.app/
 
 <br>
  
